@@ -34,6 +34,7 @@ Problems are categorized **pattern-wise**, following a logical sequence from sim
 |  20 | [Mastering Breadth First Search](https://github.com/Shakti4640/Leetcode_Pattern_Wise_Problems/tree/main/Mastering%20Breadth%20First%20Search)                            | Comprehensive guide to graph traversal using BFS across grid and graph problems. |
 |  21 | [Mastering Depth First Search](https://github.com/Shakti4640/Leetcode_Pattern_Wise_Problems/tree/main/Mastering%20Depth%20First%20Search)                                | Explains recursive and iterative DFS applications in trees and graphs.           |
 |  22 | [Mastering Recursion](https://github.com/Shakti4640/Leetcode_Pattern_Wise_Problems/tree/main/Mastering%20Recursion)                                                      | Practical recursion problems to cement recursive flow understanding.             |
+|  23 | [Interview Questions Series](https://github.com/Shakti4640/Leetcode_Pattern_Wise_Problems/tree/main/Interview%20Questions%20Series)                                                      | Interview Questions Series             |
 
 --
 ---
