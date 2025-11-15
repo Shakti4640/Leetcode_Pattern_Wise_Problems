@@ -1,4 +1,4 @@
-Absolutely, Shakti. Here is **Batch 1 (Q1–Q100)** — focusing on **C++ Basics & Core Syntax**, arranged from foundational to moderately challenging.
+# **C++ Programming Interview Questions**
 
 ---
 

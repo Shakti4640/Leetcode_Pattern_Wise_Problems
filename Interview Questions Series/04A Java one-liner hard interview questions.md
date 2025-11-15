@@ -1,4 +1,4 @@
-Below are **100 one-liner hard interview questions**, each with a **tiny hint** to jog the mind.
+#  **100 one-liner hard interview questions**
 
 ---
 

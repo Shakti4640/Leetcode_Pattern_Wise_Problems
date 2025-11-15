@@ -1,5 +1,4 @@
-Perfect — let’s begin systematically.
-Here is **Batch 1 (Q1–Q100): Rust Basics & Syntax** — covering syntax, control flow, data types, error handling, and basic tooling.
+# **Rust Programming Interview Questions**
 
 ---
 

@@ -1,5 +1,4 @@
-Perfect — let's begin with **Batch 1 (Q1 – Q100): C Basics & Syntax**.
-These questions start with absolute fundamentals and progress toward more nuanced aspects of syntax, control flow, pointers, and preprocessor usage — the kinds of topics often used to test whether a candidate’s foundations in C are truly solid.
+# **C Programming Interview Questions**
 
 ---
 

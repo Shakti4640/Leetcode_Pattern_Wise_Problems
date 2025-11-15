@@ -1,6 +1,6 @@
-Perfect! We'll start with **Batch 1 (Q1–Q100)** covering **Go Basics & Syntax**. I’ll structure each question progressively—from fundamental concepts to slightly more nuanced points—so it’s suitable for someone experienced but still covering the basics thoroughly.
+# **Go Programming Interview Questions**
 
-Here’s **Batch 1: Go Basics & Syntax (Q1–Q100)**:
+## **Batch 1: Go Basics & Syntax (Q1–Q100)**:
 
 ---
 

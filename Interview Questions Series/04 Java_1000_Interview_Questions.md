@@ -1,6 +1,5 @@
-Perfect 👍 — let’s start with **Batch 1 of 10** (Questions 1–100).
+# **Java Programming Interview Questions**
 
-These are **core Java interview questions**, starting from **fundamentals** and gradually moving toward **intermediate concepts**. Later batches will go deeper into **advanced Java, frameworks, Spring, Microservices, and JavaFX**.
 
 ---
 

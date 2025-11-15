@@ -1,4 +1,4 @@
-Perfect! We'll start with **Batch 1 (Q1–Q100)** focused on **Python Basics & Core Programming**. I’ll structure the questions from very basic to slightly advanced within this scope. Here’s the first set:
+# **Python Programming Interview Questions**
 
 ---
 
